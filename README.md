@@ -18,5 +18,18 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Hakaisha1&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hakaisha1&label=Profile%20views&color=0e75b6&style=flat" alt="hakaisha1" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakaisha1" alt="hakaisha1" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakaisha1&show_icons=true&locale=en&layout=compact" alt="hakaisha1" /></p>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 -->
