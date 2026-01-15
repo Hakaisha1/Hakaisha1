@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on laravel project<br>🌱 I’m currently learning machine learning<br>💬 Ask me about anythong<br>
+🔭 I’m currently working on react project<br>🌱 I’m currently learning machine learning<br>💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:
