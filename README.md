@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Safe and Rescue Robots<br>🌱 I’m currently learning machine learning<br>💬 Ask me about anything<br>
+🔭 I’m currently working on Search and Rescue Robots<br>🌱 I’m currently learning machine learning<br>💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:
