@@ -1,10 +1,11 @@
 <img data-importer="image" align="right" height="202" src="https://media1.tenor.com/m/IwciL_oc2m0AAAAd/chu2-bang-dream.gif"  />
 
-###
+<h2 data-importer="text" align="left">Hi, I'm hakaisha (not my real name, of course)</h2>
 
-<h2 data-importer="text" align="left">Hi im hakaisha (its not my real name of course)</h2>
-
-###
+<p align="left">
+I'm a student who builds small tools and side projects, mostly with TypeScript.
+This is where I keep the things I'm working on and learning.
+</p>
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
