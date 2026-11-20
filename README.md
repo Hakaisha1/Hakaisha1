@@ -1,6 +1,5 @@
-<img data-importer="image" align="right" height="202" src="https://media1.tenor.com/m/IwciL_oc2m0AAAAd/chu2-bang-dream.gif"  />
+<img data-importer="image" align="center" height="202" src="https://media1.tenor.com/m/IwciL_oc2m0AAAAd/chu2-bang-dream.gif"  />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:374151&height=120&section=header" width="100%" alt="" />
 
 <h2 data-importer="text" align="left">Hi, I'm hakaisha (not my real name, of course)</h2>
 
@@ -34,7 +33,6 @@ This is where I keep the things I'm working on and learning.
 
 <div data-importer="stats" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hakaisha1&show_icons=true&theme=onedark&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=hakaisha1&theme=onedark&no-frame=true&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:374151&height=100&section=footer" width="100%" alt="" />
