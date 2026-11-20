@@ -1,6 +1,8 @@
-<img data-importer="image" align="center" height="202" src="https://media1.tenor.com/m/IwciL_oc2m0AAAAd/chu2-bang-dream.gif"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media1.tenor.com/m/IwciL_oc2m0AAAAd/chu2-bang-dream.gif"  />
+</div>
 
-
+###
 <h2 data-importer="text" align="left">Hi, I'm hakaisha (not my real name, of course)</h2>
 
 <p align="left">
