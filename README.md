@@ -1,5 +1,7 @@
 <img data-importer="image" align="right" height="202" src="https://media1.tenor.com/m/IwciL_oc2m0AAAAd/chu2-bang-dream.gif"  />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:374151&height=120&section=header" width="100%" alt="" />
+
 <h2 data-importer="text" align="left">Hi, I'm hakaisha (not my real name, of course)</h2>
 
 <p align="left">
@@ -8,38 +10,31 @@ This is where I keep the things I'm working on and learning.
 </p>
 
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </div>
 
-###
+<h3 align="left">Currently</h3>
+<ul>
+  <li>Building small tools with TypeScript</li>
+  <li>Learning more about React</li>
+</ul>
 
-<div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
-
-###
+<h3 align="left">Contact</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Discord-your_username-5865F2?logo=discord&logoColor=white" alt="Discord" />
+</p>
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/hakaisha1/hakaisha1/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/hakaisha1/hakaisha1/trophy-output/trophy.svg?theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hakaisha1&show_icons=true&theme=onedark&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hakaisha1&theme=onedark&no-frame=true&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
 </div>
 
-###
-
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hakaisha1/hakaisha1/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hakaisha1/hakaisha1/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hakaisha1/hakaisha1/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
-
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:374151&height=100&section=footer" width="100%" alt="" />
