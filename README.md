@@ -24,13 +24,13 @@ This is where I keep the things I'm working on and learning.
 
 <h3 align="left">Currently</h3>
 <ul>
-  <li>Building small tools with TypeScript</li>
+  <li>Building CLI Project/li>
   <li>Learning more about React</li>
 </ul>
 
 <h3 align="left">Contact</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Discord-your_username-5865F2?logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-your_username-5865F2?logo=discord&logoColor=white" alt="Discord" href="https://discord.com/users/753487005685514301" />
 </p>
 
 <div data-importer="stats" align="center">
